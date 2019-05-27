@@ -1,2 +1,2 @@
 # Pycalc
-a basic python calculator
+a basic, very simple python text calculator
